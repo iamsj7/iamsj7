@@ -13,10 +13,13 @@
 
 ### Profile Overview:
 
-![Shaik's github stats](https://github-readme-stats.vercel.app/api?username=iamsj7&show_icons=true&theme=buefy)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iamsj7&layout=compact&theme=buefy)](https://github.com/iamsj7/github-readme-stats)
+![Shaik's github stats](https://github-readme-stats.vercel.app/api?username=iamsj7&include_all_commits=true&count_private=true&show_icons=true&theme=buefy)
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iamsj7&layout=compact&theme=buefy)](https://github.com/iamsj7/github-readme-stats)
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=iamsj7.iamsj7)
+
 <p align="left"><img width="100" src="https://komarev.com/ghpvc/?username=iamsj7&style=flat-square" alt="iamsj7"></p>
 
 <!--
